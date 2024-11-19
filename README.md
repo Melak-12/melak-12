@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **melakabebeee@gmail.com**
 
-- 📄 Know about my experiences [melakuabebe.vercel.app](https://melakuabebe.vercel.app/)
+- 📄 Know about my experiences [melak.me](https://melak.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
