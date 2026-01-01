@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm melaku</h1>
+<h1 align="center">Hi 👋, I'm Melaku</h1>
 <h3 align="center" style="color: blue;">A passionate full-stack developer</h3>
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **React , MERN, Next Js, Flutter**
+- 💬 Ask me about **Laravel , MERN, Next Js, Flutter**
 
 - 📫 How to reach me **melakabebeee@gmail.com**
 
